@@ -3562,3 +3562,11 @@ Visual Composer
 #social-menu-top {
   margin: 0 !important;
 }
+/* container with image on products page sizing css */
+.esg-entry-media{
+        max-width: 500px; height: 350px;
+      }
+
+.products{        max-width: 500px; height: 600px;
+}
+/* container on products page with products infor */
